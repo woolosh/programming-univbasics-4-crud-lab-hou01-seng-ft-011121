@@ -1,12 +1,21 @@
 def create_an_empty_array
   
-end
-
-def create_an_array
+  create_an_empty_array = []
   
 end
 
+
+def create_an_array
+  
+  create_an_empty_array = ["box", "shoe", "nose", "house"]
+  
+end
+
+
 def add_element_to_end_of_array(array, element)
+  
+    create_an_empty_array = ["array", "element"]
+    create_an_empty_array<< "fish"
   
 end
 
