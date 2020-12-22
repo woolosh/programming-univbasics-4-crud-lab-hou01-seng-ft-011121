@@ -14,8 +14,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-    create_an_empty_array = ["array", "element"]
-    create_an_empty_array<< "fish"
+    add_element_to_end_of_array = ["array", "element"]
+    add_element_to_end_of_array<< "arrays!"
   
 end
 
